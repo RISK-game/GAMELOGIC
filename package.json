@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/RISK-game/Gamelogic.git"
   },
-  "author": "[\"Filip Lindvall\", \"Andreas Wallström\"]",
+  "author": ["Filip Lindvall", "Andreas Wallström"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RISK-game/Gamelogic/issues"
