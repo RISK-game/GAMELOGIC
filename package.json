@@ -1,0 +1,25 @@
+{
+  "name": "Gamelogic",
+  "version": "0.1.0",
+  "description": "This is where the logic for the game Risk will be brought into code.",
+  "main": "gamelogic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RISK-game/Gamelogic.git"
+  },
+  "author": "[\"Filip Lindvall\", \"Andreas Wallström\"]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RISK-game/Gamelogic/issues"
+  },
+  "homepage": "https://github.com/RISK-game/Gamelogic",
+  "dependencies": {
+    "winston": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

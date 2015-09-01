@@ -1,0 +1,26 @@
+#=== Gameserver ===
+node_modules
+*.log
+
+
+#=== OSX ===
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+#=== Linux ===
+*~
+.directory
+.Trash-*
+
+#=== Windows ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
